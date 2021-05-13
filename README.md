@@ -1,5 +1,5 @@
 # netflix-imdb
-Final Project for Machine Learning. Alyx Cleveland and Tony Barrows.
+Final Project for Machine Learning. Alyx Cleveland and Anthony Barrows.
 
 
 
