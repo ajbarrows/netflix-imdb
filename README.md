@@ -7,4 +7,4 @@ Final Project for Machine Learning. Alyx Cleveland and Anthony Barrows.
 
 `scratch/` These are the ideas explored along the way that proved to be outside the scope of this work
 
-`data/` All merged versions of datasets are found here. As mentioned above, code contained in \texttt{~/source/} programmatically downloads and organizes the data used for our project.
+`data/` All merged versions of datasets are found here. As mentioned above, data are programmatically downloaded and organized.
